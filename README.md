@@ -10,7 +10,7 @@ Software Developer
 * ✉️  You can contact me at [mahdialkak1@gmail.com](mailto:mahdialkak1@gmail.com)
 * 🧠  I'm currently learning axios.js
 * 💬  Ask me about Pro Fortnite player
-* 
+
 ### Skills
 
 <p align="left">
