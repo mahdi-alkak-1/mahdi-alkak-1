@@ -21,7 +21,7 @@
 - 🧪 Love **building small web apps**, breaking them, then fixing them cleaner
 - 🎯 Interested in **full-stack web**, **backend logic**, and **problem-solving with code**
 - 🎮 Fortnite enjoyer (you can absolutely ask me about settings, sensitivity, or rage moments 😂)
-- ✉️ Reach me: **[mahdialkak1@gmail.com](mailto:mahdialkak1@gmail.com)**
+
 
 ---
 
