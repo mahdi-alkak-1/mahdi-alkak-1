@@ -1,7 +1,7 @@
 <!-- Intro Header -->
 <h1 align="center">
   Hey, I'm <span style="color:#facc15;">MonsterCoder</span> 🧟‍♂️
-</h1>
+</h1>s
 
 <p align="center">
   <i>Software Developer • Curious Learner • Fortnite Grinder</i>
