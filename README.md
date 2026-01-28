@@ -17,11 +17,11 @@
 
 - 🌍 Based in **Lebanon**
 - 💻 A few years deep into programming and still obsessed with it
-- 🧠 Currently leveling up **Axios**, APIs, and modern web development
-- 🧪 Love **building small web apps**, breaking them, then fixing them cleaner
-- 🎯 Interested in **full-stack web**, **backend logic**, and **problem-solving with code**
+- 🛠️ Currently leveling up **Docker**, **GitHub Actions**, and **deployment workflows**
+- 🧪 Love building full-stack apps, breaking them, then rebuilding them cleaner
+- 🎯 Focused on **full-stack web**, **backend logic**, and **problem-solving with code**
+- 🚀 Expanding into **Go** while sharpening **React + TypeScript**
 - 🎮 Fortnite enjoyer (you can absolutely ask me about settings, sensitivity, or rage moments 😂)
-
 
 ---
 
@@ -56,16 +56,17 @@
 
 ## 🔥 What I’m Doing Right Now
 
-- 📡 Learning to **call APIs with Axios** and handle responses like a pro  
-- 🧱 Building small projects with **React + Laravel + MySQL** to connect frontend & backend properly  
-- 🧩 Trying to solve problems with clean code instead of spaghetti  
-- 🧼 Refactoring old projects and seeing how much I’ve grown  
+- 🐳 Getting more comfortable with **Docker** (images, containers, volumes, Compose)
+- ⚙️ Improving my **CI/CD** skills with **GitHub Actions** (build/test/push/deploy pipelines)
+- 🚀 Learning more about **deployment** and production setups (env vars, server workflows, troubleshooting)
+- 🧩 Building and refactoring projects using **React + TypeScript** with clean structure
+- 🏗️ Expanding into **Go** for backend services and APIs
 
 ---
 
 ## 🎯 Dev Focus
 
 ```text
-Short-term:  Become extremely comfortable with APIs, auth, and real-world requests.
-Mid-term:    Build solid full-stack apps (React / Laravel / MySQL).
+Short-term:  Get confident with Docker, CI/CD, and deployment basics.
+Mid-term:    Build solid full-stack apps (React / Laravel / MySQL) and ship them reliably.
 Long-term:   Be the guy who can look at any bug and say: “I know why this is broken.”
