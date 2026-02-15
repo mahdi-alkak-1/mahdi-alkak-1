@@ -20,6 +20,7 @@
 - 🛠️ Currently leveling up **Docker**, **GitHub Actions**, and **deployment workflows**
 - 🧪 Love building full-stack apps, breaking them, then rebuilding them cleaner
 - 🎯 Focused on **full-stack web**, **backend logic**, and **problem-solving with code**
+- 🔗 Automating workflows using n8n (webhooks, integrations, event-driven pipelines, API orchestration)
 - 🚀 Expanding into **Go** while sharpening **React + TypeScript**
 - 🎮 Fortnite enjoyer (you can absolutely ask me about settings, sensitivity, or rage moments 😂)
 
@@ -60,7 +61,6 @@
 - ⚙️ Improving my **CI/CD** skills with **GitHub Actions** (build/test/push/deploy pipelines)
 - 🚀 Learning more about **deployment** and production setups (env vars, server workflows, troubleshooting)
 - 🧩 Building and refactoring projects using **React + TypeScript** with clean structure
-- 🔗 Automating workflows using n8n (webhooks, integrations, event-driven pipelines, API orchestration)
 - 🏗️ Expanding into **Go** for backend services and APIs
 
 ---
