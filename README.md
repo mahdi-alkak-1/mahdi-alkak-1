@@ -60,6 +60,7 @@
 - ⚙️ Improving my **CI/CD** skills with **GitHub Actions** (build/test/push/deploy pipelines)
 - 🚀 Learning more about **deployment** and production setups (env vars, server workflows, troubleshooting)
 - 🧩 Building and refactoring projects using **React + TypeScript** with clean structure
+- 🔗 Automating workflows using n8n (webhooks, integrations, event-driven pipelines, API orchestration)
 - 🏗️ Expanding into **Go** for backend services and APIs
 
 ---
